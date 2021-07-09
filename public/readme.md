@@ -1,6 +1,7 @@
 #### Hello
 
-This is an intro 
+Development notes:
 
-- [ ] b
-- [x] a
+npm run build
+firebase emulators:start
+firebase deploy
