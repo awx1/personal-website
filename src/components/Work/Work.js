@@ -12,18 +12,19 @@ export default function Work(props) {
             <ul>
                 <li>
                     <p>
-                        At <b>Amazon</b>, adding scalability and control to intelligence on a V1 stealth product.
+                        At <b>Amazon</b> currently, adding scalability and control to intelligence on a V1 stealth product.
+                        <ul>
+                            <li>
+                                <p>
+                                    Implementing cloud based services in an Android development environment (Android Development, Java)
+                                </p>
+                            </li>
+                        </ul>   
                     </p>
                 </li>
-            </ul>
-
-            <p style={{ paddingLeft: 0 }}>
-                Former <b>CS Research</b> Experiences:
-            </p>
-            <ul>
                 <li>
                     <p>
-                        ODU Virginia Modeling, Analysis and Simulation Center - Privacy, Machine Learning
+                        Virginia Modeling, Analysis and Simulation Center - Privacy, Machine Learning
                         <ul>
                             <li>
                                 <p>
@@ -40,6 +41,12 @@ export default function Work(props) {
                         </ul>
                     </p>
                 </li>
+            </ul>
+
+            <p style={{ paddingLeft: 0 }}>
+                Former <b>CS Research</b> Experiences:
+            </p>
+            <ul>
                 <li>
                     <p>
                         Rice University Kavraki Lab - Robotics, Motion Planning
@@ -62,7 +69,7 @@ export default function Work(props) {
                 </li>
                 <li>
                     <p>
-                        NSF REU in Big Data Security & Privacy - Privacy, Ensemble Deep Learning, Encryption
+                        NSF REU in Big Data Security & Privacy, supported by Microsoft and NSF - Privacy, Ensemble Deep Learning, Encryption
                         <ul>
                             <li>
                                 <p>
@@ -93,6 +100,12 @@ export default function Work(props) {
                     <p>
                         <b>Teaching Assistant (TA)</b> for COMP 382: Reasoning about Algorithms.
                         <br/>Conducted weekly lab sessions for additional problem solving and proof writing practice. Graded assignments, weekly TA office hours for students. Roughly ~150 students.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <b>Teaching Assistant (TA)</b> for STAT 410: Linear Regression.
+                        <br/>Graded assignments and tests. Roughly ~50 students.
                     </p>
                 </li>
                 <li>

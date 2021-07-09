@@ -15,7 +15,7 @@ export default function About(props) {
             <img src={pic} className="Picture"/><br/><br/>
             <div className="section-header">about</div>
             <div>
-                <p>I'm Alex and I'm majoring in Computer Science and Statistics @ Rice University in Houston, TX, graduating in <b>Spring 2022</b>.</p>
+                <p>I'm Alex, and I'm majoring in Computer Science and Statistics @ Rice University in Houston, TX, graduating in <b>Spring 2022</b>.</p>
                 <p>I like to play around with tech but sometimes I make cool things happen!</p>
                 <p>My skillset is in backend web development, mobile development, deep learning w/ applications to privacy, robotics, and federated machine learning.</p>
                 <p>If you're a recruiter stopping by, you can find <a target="_blank" rel="noopener noreferrer" href={pdf}>my resume</a> here!</p>
