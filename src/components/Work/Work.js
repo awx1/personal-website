@@ -91,9 +91,8 @@ export default function Work(props) {
                     </p>
                 </li>
             </ul>
-
             <p style={{ paddingLeft: 0 }}>
-                Rice <b>Extracurriculars</b>:
+                Rice <b>Work Experiences</b>:
             </p>
             <ul>
                 <li>
@@ -108,6 +107,11 @@ export default function Work(props) {
                         <br/>Graded assignments and tests. Roughly ~50 students.
                     </p>
                 </li>
+            </ul>
+            <p style={{ paddingLeft: 0 }}>
+                Rice <b>Extracurriculars</b>:
+            </p>
+            <ul>
                 <li>
                     <p>
                         Rice REMIXCS: Conducted CS outreach, taught a class of 15 high schoolers in the greater Houston community weekly to inspire future computer scientists, specifically underrepresented minorities in CS.
