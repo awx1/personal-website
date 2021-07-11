@@ -92,7 +92,7 @@ export default function Work(props) {
                 </li>
             </ul>
             <p style={{ paddingLeft: 0 }}>
-                Rice <b>Work Experiences</b>:
+                Rice <b>Teaching Experiences</b>:
             </p>
             <ul>
                 <li>

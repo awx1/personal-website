@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../../files/AlexXiongResume_12-17-20b.pdf';
+import pdf from '../../files/AlexXiongResume_Website.pdf';
 import pic from '../../files/me4.jpg'
 import { SocialIcon } from 'react-social-icons';
 import './About.css'
